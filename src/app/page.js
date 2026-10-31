@@ -100,17 +100,19 @@ export default function Home() {
               </p>
             </div>
 
-            {/* Studio 3: Mirano (Prossima Apertura) */}
-            <div className="border-2 border-dashed border-gray-300 p-8 rounded-2xl text-center bg-gray-50/50">
-              <div className="w-12 h-12 bg-gray-200 text-gray-500 rounded-full flex items-center justify-center mx-auto mb-4">
+            {/* Studio 3: Mirano */}
+            <div className="bg-emerald-50 p-8 rounded-2xl text-center shadow-sm hover:shadow-md transition-shadow">
+              <div className="w-12 h-12 bg-emerald-100 text-emerald-700 rounded-full flex items-center justify-center mx-auto mb-4">
                 <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.242-4.243a8 8 0 1111.314 0z" />
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                 </svg>
               </div>
-              <h3 className="text-xl font-bold text-gray-500 mb-2">Mirano (VE)</h3>
-              <span className="inline-block bg-gray-200 text-gray-700 text-sm font-medium px-3 py-1 rounded-full mt-1">
-                Prossima apertura
-              </span>
+              <h3 className="text-xl font-bold text-gray-800 mb-2">Mirano</h3>
+              <p className="text-gray-600 leading-relaxed">
+                Via G. Matteotti 78/4<br />
+                30035 Mirano (VE)
+              </p>
             </div>
 
           </div>

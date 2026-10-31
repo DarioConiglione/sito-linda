@@ -32,6 +32,14 @@ export default function ChiSono() {
                                 Il mio approccio è olistico ed empatico. Non lavoro con protocolli rigidi o diete pre-stampate, ma mi metto in ascolto delle tue reali esigenze. Il mio obiettivo è insegnarti a mangiare in maniera bilanciata, costruendo insieme a te nuove abitudini che si incastrino perfettamente nella tua routine quotidiana, senza mai stravolgerla.
                             </p>
                         </div>
+                        <a
+                            href="https://www.miodottore.it/linda-perissinotto/nutrizionista/padova"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="inline-block mt-8 px-7 py-3 bg-emerald-700 text-white font-semibold rounded-full hover:bg-emerald-800 hover:shadow-lg transition-all duration-300 text-center"
+                        >
+                            Prenota la tua consulenza gratuita!
+                        </a>
                     </div>
                 </div>
 
@@ -50,6 +58,14 @@ export default function ChiSono() {
                                 Questa solida base olistica mi ha spinta ad andare ancora più a fondo, dedicandomi alla clinica e conseguendo, con lode, la Laurea Magistrale in <strong className="text-emerald-800 font-semibold">Scienze della Nutrizione Umana</strong> (curriculum Nutraceutica), per poi abilitarmi alla professione iscrivendomi all'Ordine dei Biologi.
                             </p>
                         </div>
+                        <a
+                            href="https://www.instagram.com/dssa.lindaperissinotto/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="inline-block mt-8 px-7 py-3 bg-emerald-700 text-white font-semibold rounded-full hover:bg-emerald-800 hover:shadow-lg transition-all duration-300 text-center"
+                        >
+                            Conosciamoci meglio!
+                        </a>
                     </div>
                 </div>
 
@@ -70,6 +86,14 @@ export default function ChiSono() {
                                 <li><strong className="text-emerald-800 font-semibold">Educazione alimentare:</strong> dal 2024 seguo progetti nelle scuole elementari e dell'infanzia per aiutare i bambini e i genitori ad avvicinarsi ad un'alimentazione sana e bilanciata.</li>
                             </ul>
                         </div>
+                        <a
+                            href="https://wa.me/393516651342"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="inline-block mt-8 px-7 py-3 bg-emerald-700 text-white font-semibold rounded-full hover:bg-emerald-800 hover:shadow-lg transition-all duration-300 text-center"
+                        >
+                            Contattami!
+                        </a>
                     </div>
                 </div>
 
