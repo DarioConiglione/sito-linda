@@ -87,7 +87,7 @@ export default function ChiSono() {
                             </ul>
                         </div>
                         <a
-                            href="https://wa.me/393516651342"
+                            href="https://wa.me/393493532551"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="inline-block mt-8 px-7 py-3 bg-emerald-700 text-white font-semibold rounded-full hover:bg-emerald-800 hover:shadow-lg transition-all duration-300 text-center"

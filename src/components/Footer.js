@@ -35,6 +35,12 @@ export default function Footer() {
                                     <span>📞</span> +39 349 3532551
                                 </a>
                             </li>
+                            <li>
+
+                                <a href="https://www.instagram.com/dssa.lindaperissinotto/" className="hover:text-emerald-600 transition-colors flex items-center justify-center md:justify-start gap-2">
+                                    <span>📷</span> Instagram
+                                </a>
+                            </li>
                         </ul>
                     </div>
 
